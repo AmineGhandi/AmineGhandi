@@ -1,7 +1,8 @@
 # 🧙‍♂️ Amine Ghandi – The UX/UI Wizard
 
 Hey there, fellow traveler of the digital realm!  
-I'm **Amine**, a self-taught **UX/UI Wizard** from Morocco 🇲🇦 conjuring clean, intuitive, and spellbinding user experiences. Armed with a magic staff (that also happens to be a stylus 🪄✍️), I blend design, code, and strategy to craft interfaces that **don’t just look good — they *feel* good**.
+I'm **Amine**, a self-taught **Software Engineer** with **8+ years of experience**, specializing in **UX/UI Design**, frontend sorcery, and backend alchemy.  
+From Morocco 🇲🇦, I conjure clean, intuitive, and spellbinding digital experiences. Armed with a magic staff (that also happens to be a stylus 🪄✍️), I blend design, code, and strategy to craft interfaces that **don’t just look good — they *feel* good**.
 
 ---
 
@@ -72,8 +73,8 @@ In my world, creativity *is* magic.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-My_Spellbook-orange?style=for-the-badge&logo=firefox)](https://#)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amine_Ghandi-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amine-ghandi)  
-[![Twitter](https://img.shields.io/badge/Twitter-@UXWizard-white?style=for-the-badge&logo=twitter)](https://x.com/DustNPC)  
-[![Twitch](https://img.shields.io/badge/Twitch-Magic_Live-purple?style=for-the-badge&logo=twitch)](https://twitch.tv/DustNPC)
+[![Twitter](https://img.shields.io/badge/X-@DustNPC-black?style=for-the-badge&logo=twitter)](https://x.com/DustNPC)  
+[![Twitch](https://img.shields.io/badge/Twitch-DustNPC-purple?style=for-the-badge&logo=twitch)](https://twitch.tv/DustNPC)
 
 ---
 
